@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Curilearner
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me sumitkarki1000@gmail.com
 
